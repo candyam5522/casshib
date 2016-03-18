@@ -16,7 +16,7 @@
 	</parent>        
 
  
-        <url>https://github.com/eurekaclinical/casshib.git</url>
+        <url>https://github.com/eurekaclinical/casshib</url>
         
 	<properties>
 		<cas.version>3.5.2</cas.version>

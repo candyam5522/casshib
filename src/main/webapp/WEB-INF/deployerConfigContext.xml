@@ -35,7 +35,6 @@
                                 <bean class="org.jasig.cas.adaptors.trusted.authentication.handler.support.PrincipalBearingCredentialsAuthenticationHandler" />
 				<bean class="org.jasig.cas.authentication.handler.support.HttpBasedServiceCredentialsAuthenticationHandler"
 				      p:httpClient-ref="httpClient" />
-				<bean class="org.jasig.cas.authentication.handler.support.SimpleTestUsernamePasswordAuthenticationHandler" />
 			</list>
 		</property>
 	</bean>
